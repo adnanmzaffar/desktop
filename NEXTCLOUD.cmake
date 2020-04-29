@@ -1,4 +1,4 @@
-set( APPLICATION_NAME       "Nextcloud" )
+set( APPLICATION_NAME       "Ippbx" )
 set( APPLICATION_SHORTNAME  "Nextcloud" )
 set( APPLICATION_EXECUTABLE "nextcloud" )
 set( APPLICATION_DOMAIN     "nextcloud.com" )
